@@ -1,0 +1,30 @@
+{
+  "name": "civictrust-ai",
+  "version": "1.0.0",
+  "description": "CivicTrust AI — Smart City Complaint & Accountability System with AI Evidence Verification & SLA Governance",
+  "type": "module",
+  "scripts": {
+    "dev": "node scripts/dev.js",
+    "start": "node scripts/dev.js",
+    "dev:frontend": "node server.js",
+    "dev:backend": "node backend/server.js",
+    "test": "node --test tests/civictrust.test.js",
+    "build": "echo 'Static frontend is ready in frontend/'"
+  },
+  "keywords": [
+    "smart-cities",
+    "civic-tech",
+    "complaint-management",
+    "accountability",
+    "sla-tracking",
+    "evidence-verification",
+    "ai-security",
+    "prompt-injection-defense",
+    "agentic-ai",
+    "sdg-11"
+  ],
+  "author": "CivicTrust AI Team",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {}
+}
